@@ -1,0 +1,15 @@
+# OS files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp           # Vim swap files
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.iml
